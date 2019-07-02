@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.171,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.06.09 19:29:30.824,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.06.09 19:29:31.388,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019.06.09 19:31:50.200,C:\Users\Asus\Desktop\SAKOD_4s\Lab_9\prog\File1.cpp=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019.06.09 19:31:53.024,C:\Users\Asus\Desktop\SAKOD_4s\Lab_9\prog\Project1PCH1.h=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.06.09 19:31:54.286,C:\Users\Asus\Desktop\SAKOD_4s\Lab_9\prog\Project1.cbproj=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
