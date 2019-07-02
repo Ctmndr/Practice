@@ -52,16 +52,20 @@ void z_preprocess(vector<int> & Z, const string & str)
 				}
 		}
 }
+void hi(){
+  cout << "message " << '\n';
+}
 
 
 
-int _tmain(int argc, _TCHAR* argv[]) 
+int _tmain(int argc, _TCHAR* argv[])
 {   system("chcp 1251");
 	system("cls");
 	string str;
 	vector <int>  Z;
-	cout<<"Введите слово"<<endl;
-	cin>>str;
+	cout<<"пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ"<<endl;
+ //	cin>>str;
+  hi();
 	system("pause");
 	return 0;
 }
